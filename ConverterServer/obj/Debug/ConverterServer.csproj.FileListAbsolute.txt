@@ -1,0 +1,7 @@
+D:\Visual Studio\Projects\Converter - Copy\ConverterServer\bin\ConverterServer.dll.config
+D:\Visual Studio\Projects\Converter - Copy\ConverterServer\bin\ConverterServer.dll
+D:\Visual Studio\Projects\Converter - Copy\ConverterServer\bin\ConverterServer.pdb
+D:\Visual Studio\Projects\Converter - Copy\ConverterServer\obj\Debug\ConverterServer.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Converter - Copy\ConverterServer\obj\Debug\ConverterServer.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Converter - Copy\ConverterServer\obj\Debug\ConverterServer.dll
+D:\Visual Studio\Projects\Converter - Copy\ConverterServer\obj\Debug\ConverterServer.pdb

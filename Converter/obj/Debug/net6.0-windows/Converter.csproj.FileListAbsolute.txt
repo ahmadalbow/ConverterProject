@@ -1,0 +1,79 @@
+C:\Users\ahmad\source\repos\Converter\Converter\bin\Debug\net6.0-windows\Converter.exe
+C:\Users\ahmad\source\repos\Converter\Converter\bin\Debug\net6.0-windows\Converter.deps.json
+C:\Users\ahmad\source\repos\Converter\Converter\bin\Debug\net6.0-windows\Converter.runtimeconfig.json
+C:\Users\ahmad\source\repos\Converter\Converter\bin\Debug\net6.0-windows\Converter.dll
+C:\Users\ahmad\source\repos\Converter\Converter\bin\Debug\net6.0-windows\ref\Converter.dll
+C:\Users\ahmad\source\repos\Converter\Converter\bin\Debug\net6.0-windows\Converter.pdb
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter_MarkupCompile.cache
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter_MarkupCompile.lref
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.g.resources
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.dll
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\ref\Converter.dll
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.pdb
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.genruntimeconfig.cache
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ahmad\source\repos\Converter\Converter\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ahmad\source\repos\Converter\Converter\obj\Debug\net6.0-windows\Converter.csproj.CopyComplete
+D:\Visual Studio\Projects\Converter\Converter\bin\Debug\net6.0-windows\Converter.exe
+D:\Visual Studio\Projects\Converter\Converter\bin\Debug\net6.0-windows\Converter.deps.json
+D:\Visual Studio\Projects\Converter\Converter\bin\Debug\net6.0-windows\Converter.runtimeconfig.json
+D:\Visual Studio\Projects\Converter\Converter\bin\Debug\net6.0-windows\Converter.dll
+D:\Visual Studio\Projects\Converter\Converter\bin\Debug\net6.0-windows\ref\Converter.dll
+D:\Visual Studio\Projects\Converter\Converter\bin\Debug\net6.0-windows\Converter.pdb
+D:\Visual Studio\Projects\Converter\Converter\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\App.g.cs
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter_MarkupCompile.cache
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter_MarkupCompile.lref
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.g.resources
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.AssemblyInfo.cs
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.csproj.CopyComplete
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.dll
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\ref\Converter.dll
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.pdb
+D:\Visual Studio\Projects\Converter\Converter\obj\Debug\net6.0-windows\Converter.genruntimeconfig.cache
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\Converter.exe
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\Converter.deps.json
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\Converter.runtimeconfig.json
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\Converter.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\ref\Converter.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\Converter.pdb
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\App.g.cs
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter_MarkupCompile.cache
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter_MarkupCompile.lref
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.g.resources
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.AssemblyInfo.cs
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.csproj.CopyComplete
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\ref\Converter.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.pdb
+D:\Visual Studio\Projects\Converter - Copy\Converter\obj\Debug\net6.0-windows\Converter.genruntimeconfig.cache
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\System.ServiceModel.dll
+D:\Visual Studio\Projects\Converter - Copy\Converter\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
